@@ -10,7 +10,7 @@
 如需询问作者或转载，请到PMM吧吧群当 面 质 问，吧群：788951151
 
 ## 节奏榜一图流
-[节奏榜](images/tierliststl.jpg)
+[节奏榜](https://github.com/HsinChang/pkms/blob/main/images/tierliststl.jpg)
 
 ## 目录 
 - [节奏风暴入榜拍组细评（节奏榜附属产物）](#节奏风暴入榜拍组细评节奏榜附属产物)
