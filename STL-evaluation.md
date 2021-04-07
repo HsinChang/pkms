@@ -1,7 +1,7 @@
 # 节奏风暴
-![节奏风暴](https://github.com/HsinChang/pkms/blob/main/images/tierlist165.png)
+![节奏风暴](https://github.com/HsinChang/pkms/blob/main/images/tierlist166.jpg)
 
-# 节奏风暴入榜拍组细评（节奏榜附属产物）
+# 节奏风暴入榜拍组细评
 主编：STL
 
 技术支持：波加曼
@@ -15,7 +15,7 @@
 
 ## 目录 
 - [节奏风暴](#节奏风暴)
-- [节奏风暴入榜拍组细评（节奏榜附属产物）](#节奏风暴入榜拍组细评节奏榜附属产物)
+- [节奏风暴入榜拍组细评](#节奏风暴入榜拍组细评)
   - [目录](#目录)
 - [前言](#前言)
   - [缘起](#缘起)
