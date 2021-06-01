@@ -1,12 +1,12 @@
 # 节奏风暴
-![节奏风暴](https://github.com/HsinChang/pkms/blob/main/images/tierlist1.8.1.png)
+![节奏风暴](https://github.com/HsinChang/pkms/blob/main/images/tierlist1.8.2.png)
 
 # 节奏风暴入榜拍组细评
 主编：STL
 
 技术支持：波加曼
 
-特别鸣谢：生烟、波加、琉璃、陌生人、鲨鱼
+特别鸣谢：生烟、波加、琉璃、陌生人、鲨鱼、淡蓝色天空
 
 鸣谢：PMM吧群里给我提供修改意见的各位
 
