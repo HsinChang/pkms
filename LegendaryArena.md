@@ -11,13 +11,13 @@
 ## 鸣谢
 波加的技术支持
 
-红心K（https://space.bilibili.com/241129163/）提供的内容格式 
+红心K （https://space.bilibili.com/241129163/） 提供的内容格式 
 
-杰哥（https://space.bilibili.com/10294244）的传说对战视频（修正技能和被动时使用）
+杰哥 （https://space.bilibili.com/10294244） 的传说对战视频（修正技能和被动时使用）
 
 （不知道是哪里）的JSON
 
-Absol-utely的pastebin（https://pastebin.com/u/Absol-utely/）
+Absol-utely的pastebin （https://pastebin.com/u/Absol-utely/） 
 
 ## 目录
 - [VS 炎帝](#vs-炎帝)
