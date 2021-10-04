@@ -8,7 +8,6 @@ Gamepress的JSON
 
 Absol-utely的pastebin （https://pastebin.com/u/Absol-utely/） 
 - [阿罗拉冠军对战](#阿罗拉冠军对战)
-  - [鸣谢](#鸣谢)
   - [第一次联盟](#第一次联盟)
     - [2021-10-11->2021-10-17](#2021-10-11-2021-10-17)
       - [VS哈拉](#vs哈拉)
