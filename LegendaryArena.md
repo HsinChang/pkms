@@ -15,7 +15,7 @@
 
 杰哥 （https://space.bilibili.com/10294244） 的传说对战视频（修正技能和被动时使用）
 
-（不知道是哪里）的JSON
+Gamepress的JSON
 
 Absol-utely的pastebin （https://pastebin.com/u/Absol-utely/） 
 
