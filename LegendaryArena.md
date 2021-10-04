@@ -17,7 +17,7 @@
 
 Gamepress的JSON
 
-Absol-utely的pastebin （https://pastebin.com/u/Absol-utely/） 
+Absol-utely的pastebin （https://pastebin.com/u/Absol-utely/ ） 
 
 ## 目录
 - [VS 炎帝](#vs-炎帝)
