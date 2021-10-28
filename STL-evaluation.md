@@ -1,5 +1,5 @@
 # 节奏风暴
-![节奏风暴](https://github.com/HsinChang/pkms/blob/main/images/tierlist2.2.5.png)
+![节奏风暴](https://github.com/HsinChang/pkms/blob/main/images/tierlist2.3.0.png)
 
 # 节奏风暴入榜拍组细评
 主编：STL
