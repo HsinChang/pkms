@@ -13,7 +13,7 @@
 
 红心K （https://space.bilibili.com/241129163/） 提供的内容格式 
 
-杰哥 （https://space.bilibili.com/10294244） 的传说对战视频（修正技能和被动时使用）
+摩卡加奶糖 （https://space.bilibili.com/28004835/） 的传说对战视频（修正时使用）
 
 Gamepress的JSON
 
