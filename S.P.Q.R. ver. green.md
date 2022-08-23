@@ -1,4 +1,6 @@
 # Re:从零开始的萝马生活
+## 鸣谢
+感谢紫妹（https://tieba.baidu.com/home/main?id=tb.1.20bf5a4b.dFbOuT3TV4Yqgh_6DUjrRA?t=1617286159&fr=pb） 提供的相关经验
 ## Step 1：选择梯子
 请选择自己需要的梯子。梯子要求如下：有土耳其地区的节点，以及节点IP为土耳其。
 
