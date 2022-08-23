@@ -31,11 +31,11 @@ Tip：懒人选项（私货time）
 ### Step 2.5 another：购买谷歌账号后的配置工作
 图片来源：紫妹（https://tieba.baidu.com/home/main?id=tb.1.20bf5a4b.dFbOuT3TV4Yqgh_6DUjrRA?t=1617286159&fr=pb）
 
-![谷歌账号1][https://github.com/HsinChang/pkms/tree/main/images/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7/谷歌账号1]
+![google1](https://github.com/HsinChang/pkms/blob/main/images/google/google1.jpg)
 
-![谷歌账号2][https://github.com/HsinChang/pkms/tree/main/images/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7/谷歌账号2]
+![google2](https://github.com/HsinChang/pkms/blob/main/images/google/google2.jpg)
 
-![谷歌账号3][https://github.com/HsinChang/pkms/tree/main/images/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7/谷歌账号3]
+![google3](https://github.com/HsinChang/pkms/blob/main/images/google/google3.jpg)
 ### Step 3：申请信用卡
 想要偷渡到土耳其，需要一个 VISA（或万事达）+全币种 的信用卡。申请信用卡的流程就不需要我来介绍了，只提供几个注意事项。
 
