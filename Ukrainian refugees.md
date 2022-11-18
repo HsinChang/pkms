@@ -1,6 +1,6 @@
 # Re:从零开始的逃乌难民生活
 ## 鸣谢
-感谢紫妹（https://tieba.baidu.com/home/main?id=tb.1.20bf5a4b.dFbOuT3TV4Yqgh_6DUjrRA?t=1617286159&fr=pb） 提供的相关经验
+感谢紫妹（https://tieba.baidu.com/home/main?id=tb.1.20bf5a4b.dFbOuT3TV4Yqgh_6DUjrRA?t=1617286159&fr=pb） 提供的相关经验。
 ## 注意
 如需评论或者提问题，可点击上方的Issues留言。
 ## 正文
@@ -34,9 +34,11 @@ Tip：懒人选项（私货time）
 
 ![google3](https://github.com/HsinChang/pkms/blob/main/images/google/google3.jpg)
 #### Step 2.2：转区
-由于土区崩塌，无论是新进还是老人都需要转区以避免被土区新价格坑。
+一方面，新人需要通过转区来跳过国区或者其他区；
 
-已有完整攻略，故不写具体内容，只放链接。
+另一方面，由于土区崩塌，萝马人们避免被土区新价格坑。
+
+知乎已有人写了完整攻略，故不重复造轮子，只放链接。
 
 链接：https://zhuanlan.zhihu.com/p/407035636?ivk_+sa=1024320u&utm_+id=0&utm_id=0
 ### Step 3：申请信用卡
