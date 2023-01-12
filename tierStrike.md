@@ -1,7 +1,7 @@
 # 节奏风暴——输出榜
 ![节奏风暴](https://github.com/HsinChang/pkms/blob/main/images/tierStrike1.4.0.png)
 # 节奏风暴——辅助干扰榜
-![节奏风暴](https://github.com/HsinChang/pkms/blob/main/images/tierST1.3.0.png)
+![节奏风暴](https://github.com/HsinChang/pkms/blob/main/images/tierSP1.3.0.png)
 # 节奏风暴入榜拍组细评
 主编
 
